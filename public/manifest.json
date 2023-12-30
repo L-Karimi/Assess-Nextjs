@@ -1,11 +1,12 @@
 {
-    "name": "Next.js PWA Demo",
-    "short_name": "pwaedemo",
-    "description": "A Progressive Web App built with Next.js",
-    "start_url": "/",
+    "theme_color": "#f0ebe7",
+    "background_color": "#f2db30",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "scope": "/",
+    "start_url": "/",
+    "name": "mynextjs-app",
+    "short_name": "my app",
+    "description": "weather app",
     "icons": [
         {
             "src": "/icon-192x192.png",
